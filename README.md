@@ -162,6 +162,25 @@ Since Elite users are typically passionate about exploring and reviewing local b
 
 ![Screenshot 2024-05-13 at 18 04 32](https://github.com/maharjansanket/Review-analysis-using-SQL-and-Python/assets/25703361/5a81d35e-f320-4515-ba0f-396f258e272a)
 
+### What is the busiest hour? 
+
+This time frame aligns with typical dinner hours and extends into the late evening, indicating a peak in restaurant activities during these hours. By understanding when user engagement is highest, restaurants can schedule their staff effectively, manage inventory levels, and provide better customer service during these busy periods.
+People often choose to dine out during the evening and night hours due to convenience after work, socializing with friends or family, or enjoying leisure activities such as movies or events. Restaurants can capitalize on these trends by offering promotions or special menus during peak hours to attract more customers and enhance their overall business performance.
+![Screenshot 2024-05-13 at 18 04 50](https://github.com/maharjansanket/Review-analysis-using-SQL-and-Python/assets/25703361/93eb8b61-3785-44eb-aa32-1bde0e67c98c)
+
+
+### Recommendations
+By analyzing these key metrics, businesses gain valuable insights into customer behavior, preferences, and market trends. This information enables them to tailor their strategies in areas such as marketing campaigns, operational improvements, and customer service initiatives to enhance overall business performance.
+
+Elite users, with their recognized status and active engagement, can significantly impact the perception of a business on platforms like Yelp. Collaborating with them through special events, exclusive offers, or targeted promotions not only increases visibility but also builds strong advocacy among loyal customers, leading to increased brand loyalty and positive word-of-mouth marketing.
+
+Understanding peak hours helps businesses optimize resource allocation, staffing levels, and marketing efforts to meet heightened customer demand. Offering promotions or tailored experiences during these busy times can attract more customers and enhance revenue opportunities.
+
+By addressing areas identified through data analysis such as low engagement levels or negative sentiment in reviews, businesses can implement targeted improvements. This might include training staff, refining product offerings, or enhancing the overall customer experience to drive satisfaction and loyalty.
+
+Identifying cities with thriving restaurant scenes and high success scores indicates favorable market conditions and customer demand. Restaurant chains can leverage this data to prioritize expansion efforts, launch new locations, or invest in marketing campaigns targeting these lucrative markets, leading to business growth and increased market share.
+
+### For a comprehensive understanding of the data cleaning procedures, please refer the Jupyter notebooks available in the repository. These notebooks includes detailed explanations, code snippets, and documentation illustrating every step of the data cleaning process. If you need more detail or clarification on the project contact me on my email at @sanketech.maharjan@gmail.com
 
 </div>
 
