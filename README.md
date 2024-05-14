@@ -1,12 +1,16 @@
 # Analyzing User Engagement and Success Metrics for Restaurants
 
 ## Agenda
-1. Problem Statement
-2. Analysis Objectives
-3. Hypothesis
-4. Data Overview
-5. Analysis and Findings
-6. Recommendations
+
+<!--ts-->
+  * [Problem Statement](#problem-statement)
+  * [Objective](#objective)
+  * [Hypothesis](#hypothesis)
+  * [Data Overview](#data-overview)
+  * [Analysis and Findings](#analysis-and-findings)
+  * [Recommendations](#recommendations)
+<!--te-->
+
 
 <div align = "justify">
 
@@ -31,7 +35,7 @@ The positive sentiment expressed in user reviews and tips plays a crucial role i
 3. Consistent engagement overtime is positively associated with sustained business success for restaurants
 This hypothesis emphasizes the importance of consistent and sustained user engagement for long-term business success. Restaurants that maintain steady levels of engagement, such as regular reviews, tips, and check-ins, are more likely to sustain high ratings and review counts over time. Consistent positive interactions with customers build trust, loyalty, and a positive brand image, which are vital for ensuring sustained success in a competitive restaurant industry.
 
-##Data Overview
+## Data Overview
 
 Yelp is a popular online platform that provides crowd-sourced reviews about businesses, primarily restaurants but also including other local services like shopping, beauty, and entertainment. 
 
