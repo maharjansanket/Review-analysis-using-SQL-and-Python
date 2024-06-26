@@ -125,7 +125,8 @@ Given the interlinked nature of user engagement metrics, businesses can benefit 
 Philadelphia stands out as the leading city in terms of restaurant success, which is measured by a composite score that includes both high average ratings and substantial user engagement across various metrics like reviews, tips, and check-ins. This indicates that restaurants in Philadelphia not only receive high ratings from their patrons but also experience a high level of interaction and activity from their customers. The combination of high ratings and active engagement suggests a vibrant and satisfied customer base, which is a strong indicator of the health and popularity of the restaurant industry in Philadelphia.
 
 After Philadelphia, cities like Tampa, Indianapolis, and Tucson also show significant success scores. This suggests that these cities have restaurant scenes that are thriving and robust. The high success scores in these areas imply that restaurants are not only well-rated by their customers but also enjoy active user engagement. This could be due to a variety of factors such as diverse culinary offerings, effective customer service, and successful marketing strategies that encourage customers to interact more with the businesses. The high engagement and ratings reflect strong local support and a dynamic food culture in these cities, highlighting their importance as key culinary destinations.
-![Screenshot 2024-05-13 at 18 02 03](https://github.com/maharjansanket/Review-analysis-using-SQL-and-Python/assets/25703361/363c227b-cd73-4782-96a8-ba05ce704330)
+![330550588-363c227b-cd73-4782-96a8-ba05ce704330](https://github.com/maharjansanket/Review-analysis-using-SQL-and-Python/assets/25703361/01808ba9-b81a-4b55-bd02-8b6d262089b9)
+
 
 
 ### 6. Are there any patterns in user engagement over time fo rth esuccessful business compared to the less successful ones?
